@@ -30,5 +30,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adriankasito&show_icons=true&locale=en&layout=compact" alt="adriankasito" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adriankasito&" alt="adriankasito" /></p>
 
