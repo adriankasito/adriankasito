@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **building the future with machine learning 🚀**
 
-- 🌱 I’m currently learning **how to deploy and managing ML models in production**
+- 🌱 I’m currently learning **how to deploy and manage ML models in production**
 
 - 🤝 I’m looking to collaborate on **Data science and Machine learning projects**
 
